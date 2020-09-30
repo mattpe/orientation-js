@@ -30,7 +30,7 @@ The things we are going to cover on a basic level in five weeks:
 2. Lesson 2: [Arrays, loops & iteration, functions](./02-js-basics-lesson-2.md)
 3. [First JS assignment](./03-js-basics-assigment-1.md)
 4. Lesson 3: [More functions, DOM & events](./04-js-basics-lesson-3.md)
-5. Lesson 4: [Object & methods](./05-js-basics-lesson-4.md)
+5. Lesson 4: [Objects](./05-js-basics-lesson-4.md)
 6. [2nd assignment](./06-js-basics-assigment-2.md)
 7. Lesson 5: Example solutions for lesson 4 tasks, help for the assignment 2
 
