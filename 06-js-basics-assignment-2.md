@@ -24,15 +24,15 @@ Make an application that simulates a [Rock paper scissors](https://en.wikipedia.
 
   - same syntax works with `animationend` events too
 
-NOTE: this is and individual task
+**NOTE:** This is an individual assignment, not a group assignment.
 
 ### Functional requirements
 
 - all the functionalities implemented in the tutorial
 - game ends after 10 wins for a player or computer (similar idea is described in the end of the video tutorial)
   - show a message telling who won the whole game
-- game ends also if a player wins 3 times in a row
-  - an idea: use an array to record wins/results asnd check after every round if the three latest items match
+- game ends also if a player or computer wins 3 times in a row
+  - an idea: use an array to record wins/results and check after every round if the three latest items match
 
 ### Returning
 

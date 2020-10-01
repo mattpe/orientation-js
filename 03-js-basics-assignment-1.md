@@ -12,6 +12,8 @@ Make an application that simulates tossing a coin ([coin flipping in Wikipedia](
 - Develop your app by editing only the javascript file (`assignment.js`) which will contain all the code and application logic to implement this game
 - **Do not modify the html file.** You can style your app by editing the css file if you want but _do not touch the html file!_
 
+**NOTE:** This is an individual assignment, not a group assignment.
+
 ### Functional requirements
 
 - record user’s choice in the beginning (head or reverse)
@@ -25,7 +27,6 @@ Make an application that simulates tossing a coin ([coin flipping in Wikipedia](
 - user can toss the coin multiple times
 - refreshing/reloading web page restarts the application (clears result history, etc.)
 - print all output values to console too
-- NOTE: this is and individual task
 
 ### Returning
 
