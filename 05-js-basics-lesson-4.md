@@ -118,7 +118,7 @@ Create separate `.html` and `.js` files for the tasks.
 
 ### Task 1
 
-Write an application (html & js files) that holds information about two persons (name, age and home country) and prints the information onto the web page (Person name is X years old and lives in [home country]).
+Write an application (html & js files) that holds information about two persons (name, age and home country) and prints the information onto the web page (Person _[name]_ is _[n]_ years old and lives in _[home country]_).
 
 1. store person data in objects
 1. store persons to an array
