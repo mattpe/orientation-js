@@ -36,7 +36,7 @@ Make an application that simulates a [Rock paper scissors](https://en.wikipedia.
   1. game ends if a player or computer wins 3 times in a row
       - an idea: use an array to record wins/results and check after every round if the three latest items match
   1. user interface enhancements
-      - buttons are disabled while hands are shaking
+      - buttons are [disabled](https://www.w3schools.com/jsref/prop_pushbutton_disabled.asp) while hands are shaking
       - use rock image for all handshake animations
   1. add a game over screen
       - check features 1. & 2.
